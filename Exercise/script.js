@@ -6,6 +6,7 @@
 
 function say_hello() {
     // CODE HERE!!!
+    console.log("Paulla Sud lor")
     console.log("klahan handsome all the time")
     
 }
